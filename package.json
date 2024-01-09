@@ -1,5 +1,5 @@
 {
-    "name": "@lambdatest/lambdatest-playwright-sdk",
+    "name": "@lambdatest/playwright-driver",
     "description": "Playwright client library for visual testing with LambdaTest SmartUI",
     "version": "1.0.0",
     "license": "MIT",

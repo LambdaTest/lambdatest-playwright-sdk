@@ -1,6 +1,7 @@
 const client = require('./lib/httpClient.js');
 const logger = require('./lib/logger.js');
-const log = logger('@lambdatest-playwrght-sdk');
+const pkgName = require('./lib/utils.js').getPackageName()
+const log = logger(pkgName);
 
 async function isSmartUIRunning() { 
     try {
