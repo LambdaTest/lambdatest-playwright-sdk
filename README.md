@@ -17,9 +17,9 @@ With TestMu AI (Formerly LambdaTest), you can run Playwright SDK tests across re
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (LTS version recommended).
-- [Playwright](https://playwright.dev/) installed in your project.
-- A [TestMu AI account](https://www.testmuai.com/register/). Retrieve your **Username** and **Access Key** from the [TestMu AI Automation Dashboard](https://automation.testmuai.com/).
+- Node.js (LTS version recommended).
+- Playwright installed in your project.
+- A TestMu AI account. Retrieve your **Username** and **Access Key** from the TestMu AI Automation Dashboard.
 
 ### Setup
 
